@@ -1,16 +1,18 @@
 # blog_web_app
 
-A new Flutter project.
+## 📃 Project Info
+> 개발 환경: Flutter SDK 3.3.x
+>
+> 플러그인: webview_flutter: 3.0.4
 
-## Getting Started
+***
 
-This project is a starting point for a Flutter application.
+## 💡 메인 구성 요소
+- StatelessWidget
+- AppBar
+- WebView
+- IconButton
 
-A few resources to get you started if this is your first Flutter project:
+***
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 화면 구성
