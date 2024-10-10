@@ -1,16 +1,29 @@
 # video_call
 
-A new Flutter project.
+## 📃 Project Info
+> 개발 환경: Flutter SDK 3.3.x
+>
+> 플러그인: agora_rtc_engine: 6.0.0, permission_handler: 10.0.2
 
-## Getting Started
+***
 
-This project is a starting point for a Flutter application.
+## ⚙️ 기능
+- 실제 핸드폰을 이용해 1:1 화상 통화 실행/종료
 
-A few resources to get you started if this is your first Flutter project:
+***
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ 조작법
+- [입장하기] 버튼을 눌러 화상통화에 참여하기
+- [채널 나가기] 버튼을 눌러 화상통화 종료하기
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+***
+
+## 💡 메인 구성 요소
+- 아고라 API
+- 권한 관리
+- WebRTX
+  
+***
+
+## 화면 구성
+
