@@ -1,16 +1,33 @@
 # image_carousel
 
-A new Flutter project.
+## 📃 Project Info
+> 개발 환경: Flutter SDK 3.3.x
+>
+> 플러그인: X
 
-## Getting Started
+***
 
-This project is a starting point for a Flutter application.
+## ⚙️ 기능
+- 좌우로 스와이프해서 이미지 변경 가능
+- 이미지 화면에 꼭차게 하기
+- 특정 시간이 지나면 자동으로 롤링
+- 상태바 색상 변경하기
 
-A few resources to get you started if this is your first Flutter project:
+***
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ 조작법
+- 앱을 실행하면 이미지 자동으로 롤링
+- 좌우로 스와이프해서 이미지 변경 가능
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+***
+
+## 💡 메인 구성 요소
+- Image
+- Timer
+- StateFuulWidget
+- PageView
+- SystemChrome
+  
+***
+
+## 화면 구성
