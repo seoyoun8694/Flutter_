@@ -1,16 +1,16 @@
 # 📱 Flutter Study
 
-## 🙋🏻 스터디원
-|사진|사진|
-|:---:|:---:|
-|채서윤|봉성은|
-
 ## ✏️ 스터디 진행
 > 기간: 2023.07 ~ 2024.10
 
 > 목표: Flutter 기초 다지기!
 
 > 계획: 매주 새로운 챕터에 대해 공부하고 기록은 자유. 디스코드를 통해 개념 및 코드 살펴보기
+
+## 🙋🏻 스터디원
+|<img src="https://github.com/user-attachments/assets/4dd67dbb-b984-4d3f-9eb1-04b62118ce76" width="200" height="200">|<img src="https://github.com/user-attachments/assets/c54a8b6c-7189-4be3-8d65-2452f81c517c" width="200" height="200">|
+|:---:|:---:|
+|채서윤|봉성은|
 
 ***
 
